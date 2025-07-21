@@ -22,4 +22,4 @@
 ---
 
 ![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=Suhani-Dev&show_icons=true&theme+tokyonight)
+Stats](https://github-readme-stats.vercel.app/api?username=Suhani-Dev&show_icons=true&theme=tokyonight)
