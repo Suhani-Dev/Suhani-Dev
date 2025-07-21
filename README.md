@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋, I'm Suhani!
 
-<!--
-**Suhani-Dev/Suhani-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently learning Python, Git & Web Development 
+- 🌱 Slowly building projects and exploring open-source
+- 💬 Interested in Software Development & Problem Solving 
+- 📫 Reach me via LinkedIn :- www.linkedin.com/in/suhani-dalal-658279376
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack (learning phase)
+- Languages: Python, C (Basics), HTML/CSS
+- Tools: Git, GitHub, VS Code
+- Currently learning: JavaScript, Data Structures
+
+---
+
+### My Learning Journey
+- Started #100DaysOfCode
+- First Project: A simple calculator (coming soon!)
+- Planing to host my first website on GitHub Pages
+
+---
+
+![GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=Suhani-Dev&show_icons=true&theme+tokyonight)
